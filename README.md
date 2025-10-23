@@ -1,6 +1,8 @@
-# Welcome to Naya's Github!
+# Hi, I'm Naya 👋
 
-✨ Robotics and computer vision enthusiast  
-🔎 Programs in Python, Java, Kotlin, SQL   
-📶 Currently learning C++  
-📖 cr: Wuthering Heights by Emily Brönte
+**Robotics & Computer Vision Enthusiast**  
+
+💻 **Languages:** Python, Java, Kotlin, SQL, Javascript 
+🚀 **Currently learning:** C++  
+
+📚 **Current read:** *Wuthering Heights* by Emily Brontë
