@@ -1,4 +1,4 @@
-# Welcome to Naya's Github! 👋
+# Welcome to (Ka)naya's Github! 👋
 
 **Robotics & Computer Vision Enthusiast**  
 
