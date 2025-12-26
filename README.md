@@ -5,5 +5,3 @@
 💻 **Languages:** Python, Java, Kotlin, SQL, Javascript 
 
 🚀 **Currently learning:** C++  
-
-📚 **Current read:** *Wuthering Heights* by Emily Brontë
