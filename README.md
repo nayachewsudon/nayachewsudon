@@ -12,6 +12,7 @@ building things that can see and move 🤖
 ![Kotlin](https://img.shields.io/badge/Kotlin-D7C6F2?style=for-the-badge&logo=kotlin&logoColor=5B3E99)
 ![SQL](https://img.shields.io/badge/SQL-CDE7E0?style=for-the-badge&logo=postgresql&logoColor=2F6F63)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F9E7B3?style=for-the-badge&logo=javascript&logoColor=9C7A00)
+![Verilog](https://img.shields.io/badge/Verilog-BFD7ED?style=for-the-badge&logoColor=1F4E79)
 
 ## 🚀 Currently Learning
 
