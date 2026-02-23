@@ -35,12 +35,6 @@ building things that can see and move 🤖
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAYACHEWSUDON&show_icons=true&cache_seconds=1800)
-
----
-
 ### 🌙
 
 Don’t code after 10 pm.
