@@ -38,4 +38,4 @@ building things that can see and move 🤖
 
 ### 🌙
 
-Don’t code after 10 pm.
+Coding brain closed from 12 AM to 8 AM.
