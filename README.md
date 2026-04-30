@@ -1,7 +1,6 @@
 # Welcome to (Ka)naya's Github! 👋
 
-Robotics & Computer Vision Enthusiast  
-building things that can see and move 🤖
+Interested in robotics, data, ML, eager to learn more!
 
 ---
 
