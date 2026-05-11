@@ -1,6 +1,6 @@
-# Welcome to (Ka)naya's Github! 👋
+# Welcome to (Ka)Naya's Github! 👋
 
-Interested in robotics, data, ML, eager to learn more!
+Interested in robotics, data, ML, and too many other things
 
 ---
 
