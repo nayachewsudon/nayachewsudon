@@ -32,6 +32,7 @@ Interested in robotics, data, ML, and too many other things
 
 🔹 [Vision Stick](https://github.com/chits-nema/Vision-Stick)  
 🔹 [Batik Detector](https://github.com/nayachewsudon/Batik-Detector)
+🔹 [Reinforcement Learning on Duckietown](https://github.com/nayachewsudon/duckietown-btown)
 
 ---
 
